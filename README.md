@@ -16,7 +16,7 @@ I am a data professional with an analytical and results-oriented mindset, passio
 - **Other:** Data Cleaning, ETL, Dashboarding, Machine Learning (in progress)
 
 ### 📬 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/diego-acosta)
+- [LinkedIn](https://www.linkedin.com/in/diego-omar-acosta/)
 - [GitHub](https://github.com/dieeacosta)
 - [Email](mailto:your.email@example.com)
 
