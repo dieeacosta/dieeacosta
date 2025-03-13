@@ -13,6 +13,7 @@ I am a data professional with an analytical and results-oriented mindset, passio
 - **Languages:** Python, SQL, SAS
 - **BI Tools:** Power BI, Tableau
 - **Databases:** SQL Server, PostgreSQL
+- **Productivity Tools:** Excel, PowerPoint, Teams, Planner, Power Automate
 - **Other:** Data Cleaning, ETL, Dashboarding, Machine Learning (in progress)
 
 ### 📬 Let's Connect
