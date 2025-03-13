@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there 👋, I'm Diego Acosta
 
-<!--
-**dieeacosta/dieeacosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a data professional with an analytical and results-oriented mindset, passionate about turning raw data into valuable insights. 
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🎯 Currently studying **Data Science** to enhance my analytical skills.
+- 🔍 Experienced in **Data Analytics, Business Intelligence, and Data Visualization**.
+- 📊 Skilled in **Power BI, SQL, Python, SAS Enterprise Guide, and SAS Programming**.
+- 🏢 Working as a **Business Intelligence Manager** at Scania.
+- 🤝 Strong believer in teamwork and knowledge sharing for continuous learning and growth.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- **Languages:** Python, SQL, SAS
+- **BI Tools:** Power BI, Tableau
+- **Databases:** SQL Server, PostgreSQL
+- **Other:** Data Cleaning, ETL, Dashboarding, Machine Learning (in progress)
+
+### 📬 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/diego-acosta)
+- [GitHub](https://github.com/dieeacosta)
+- [Email](mailto:your.email@example.com)
+
+⚡ *Fun Fact:* Data-driven decisions create real impact, and I love uncovering hidden patterns that drive business growth! 🚀
