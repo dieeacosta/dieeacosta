@@ -19,6 +19,6 @@ I am a data professional with an analytical and results-oriented mindset, passio
 ### 📬 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/diego-omar-acosta/)
 - [GitHub](https://github.com/dieeacosta)
-- [Email](mailto:your.email@example.com)
+- [Email](mailto:diee.oacosta@gmail.com)
 
 ⚡ *Fun Fact:* Data-driven decisions create real impact, and I love uncovering hidden patterns that drive business growth! 🚀
